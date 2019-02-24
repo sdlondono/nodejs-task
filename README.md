@@ -8,6 +8,5 @@
 - POST and GET methods for server communication
 
 ```
-    npm install
-    
+ npm install
 ```
